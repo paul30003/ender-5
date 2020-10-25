@@ -138,7 +138,7 @@
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
-#define MACHINE_UUID "e5b6039e-fc88-485a-86cf-a7cffd12cbcd"
+#define MACHINE_UUID "e5b6039e-fc88-485a-86a7-a7cffd12cbcd"
 
 // @section extruder
 
